@@ -7,12 +7,12 @@
  ▄▄  ██  ██  ██  ███  ██  ██  ██  ▄▄     Curso ....... Ciência de Dados & IA
  ██  ██  ██  ██  ███  ██  ██  ██  ██     Campus ...... Fundação Santo André
  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     Uptime ...... 18 anos
-             dados  ·  código                 Status ...... buscando estágio em BI/Dados
+           dados  ·  código              Status ...... buscando estágio em BI/Dados
 ```
 
 ```sql
 SELECT stack, nivel
-FROM  pedro.habilidades
+FROM pedro.habilidades
 ORDER BY uso_diario DESC;
 ```
 
@@ -33,6 +33,7 @@ ORDER BY uso_diario DESC;
 
 ```
 $ git log --oneline --graph pdrnobre/projetos
+
 * 9c41e7d  feat: Nexo ─ minhas finanças organizadas via Open Finance (Pluggy)
 * 3a7f0b2  feat: Tátil ─ driver em Electron pro teclado Zuoya X86 e o mouse Attack Shark X3
 * e18d5c4  feat: Tic ─ alarme Android pra escala de dias alternados, com pulo de folga
