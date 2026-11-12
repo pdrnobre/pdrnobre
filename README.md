@@ -7,7 +7,7 @@
  ▄▄  ██  ██  ██  ███  ██  ██  ██  ▄▄     Curso ....... Ciência de Dados & IA
  ██  ██  ██  ██  ███  ██  ██  ██  ██     Campus ...... Fundação Santo André
  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     Uptime ...... 18 anos
-             dados  ·  código     Status ...... buscando estágio em BI/Dados
+             dados  ·  código                 Status ...... buscando estágio em BI/Dados
 ```
 
 ```sql
