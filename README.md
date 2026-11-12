@@ -6,8 +6,8 @@
      ▄▄  ██  ██  ███  ██  ██  ▄▄         Shell ....... fish  ·  kitty
  ▄▄  ██  ██  ██  ███  ██  ██  ██  ▄▄     Curso ....... Ciência de Dados & IA
  ██  ██  ██  ██  ███  ██  ██  ██  ██     Campus ...... Fundação Santo André
- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     Uptime ...... 2025 → 2029
-  dados  ·  código  ·  curiosidade       Status ...... buscando estágio em BI/Dados
+ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     Uptime ...... 18 anos
+             dados  ·  código     Status ...... buscando estágio em BI/Dados
 ```
 
 ```sql
